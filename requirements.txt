@@ -1,0 +1,6 @@
+flake8==4.0.1
+mccabe==0.6.1
+PyAudio @ file:///C:/Dev/voice-commander/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
+pycodestyle==2.8.0
+pyflakes==2.4.0
+SpeechRecognition==3.8.1
